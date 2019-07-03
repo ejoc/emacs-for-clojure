@@ -162,3 +162,6 @@
 
 ;; Windows Style Undo
 (global-set-key [(control z)] 'undo)
+
+;; Load theme
+(load-theme 'doom-one t)
